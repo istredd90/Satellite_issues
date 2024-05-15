@@ -1,0 +1,13 @@
+Error message: the server returns an error
+HTTP status code: 404
+Response headers: {"Date"=>"Wed, 15 May 2024 08:50:48 GMT", "Server"=>"gunicorn", "Content-Type"=>"application/json", "Vary"=>"Accept,Cookie", "Allow"=>"GET, PUT, PATCH, DELETE, HEAD, OPTIONS", "X-Frame-Options"=>"SAMEORIGIN", "Content-Length"=>"23", "Correlation-ID"=>"de3735fe-5518-4bd7-b922-1771e836fc19", "Access-Control-Expose-Headers"=>"Correlation-ID", "Via"=>"1.1 waul3040.fs48.vwf.vwfs-ad"}
+Response body: {"detail":"Not found."}Error message: the server returns an error
+HTTP status code: 404
+Response headers: {"Date"=>"Wed, 15 May 2024 08:50:48 GMT", "Server"=>"gunicorn", "Content-Type"=>"application/json", "Vary"=>"Accept,Cookie", "Allow"=>"GET, PUT, PATCH, DELETE, HEAD, OPTIONS", "X-Frame-Options"=>"SAMEORIGIN", "Content-Length"=>"23", "Correlation-ID"=>"de3735fe-5518-4bd7-b922-1771e836fc19", "Access-Control-Expose-Headers"=>"Correlation-ID", "Via"=>"1.1 waul3040.fs48.vwf.vwfs-ad"}
+Response body: {"detail":"Not found."}Error message: the server returns an error
+HTTP status code: 404
+Response headers: {"Date"=>"Wed, 15 May 2024 08:50:49 GMT", "Server"=>"gunicorn", "Content-Type"=>"application/json", "Vary"=>"Accept,Cookie", "Allow"=>"GET, PUT, PATCH, DELETE, HEAD, OPTIONS", "X-Frame-Options"=>"SAMEORIGIN", "Content-Length"=>"23", "Correlation-ID"=>"de3735fe-5518-4bd7-b922-1771e836fc19", "Access-Control-Expose-Headers"=>"Correlation-ID", "Via"=>"1.1 waul3040.fs48.vwf.vwfs-ad"}
+Response body: {"detail":"Not found."}Error message: the server returns an error
+HTTP status code: 404
+Response headers: {"Date"=>"Wed, 15 May 2024 08:50:49 GMT", "Server"=>"gunicorn", "Content-Type"=>"application/json", "Vary"=>"Accept,Cookie", "Allow"=>"GET, PUT, PATCH, DELETE, HEAD, OPTIONS", "X-Frame-Options"=>"SAMEORIGIN", "Content-Length"=>"23", "Correlation-ID"=>"de3735fe-5518-4bd7-b922-1771e836fc19", "Access-Control-Expose-Headers"=>"Correlation-ID", "Via"=>"1.1 waul3040.fs48.vwf.vwfs-ad"}
+Response body: {"detail":"Not found."}
