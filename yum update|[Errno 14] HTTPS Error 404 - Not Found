@@ -46,3 +46,8 @@ Uploading Enabled Repositories Report
 Loaded plugins: product-id, subscription-manager
 [root@waul3079 ~]#
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Check if SSL certs are not expired on Satellite server or capsule server via:
+katello-certs-check -c "/etc/pki/katello/certs/CERT/waul3040.fs48.vwf.vwfs-ad.crt" -k "/etc/pki/katello/certs/CERT/waul3040.fs48.vwf.vwfs-ad.pem" -b "/etc/pki/katello/certs/CERT/ca_bundle.crt"
