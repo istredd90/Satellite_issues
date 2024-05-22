@@ -1,0 +1,21 @@
+https://access.redhat.com/solutions/4525751
+https://access.redhat.com/solutions/65300
+https://access.redhat.com/solutions/57669
+
+Issue
+How to un-register a Red Hat Enterprise Linux system from Red Hat Satellite using Red Hat Subscription-Manager
+How to register a Red Hat Enterprise Linux system to the Customer Portal using Red Hat Subscription-Manager
+How do I configure internet connection through HTTP Proxy?
+How do I configure my system so that yum can access Red Hat Subscription Management (RHSM) through a firewall or proxy?
+What URLs and ports do I need to configure in my proxy server to access RHSM?
+How do I access RHSM (yum) through a firewall?
+Not able to register due to network error
+Red Hat Satellite 6 is unable to sync content from Red Hat. I suspect it is the company firewall blocking the traffic. 
+What hostnames do I need to give to the network security team to allow content syncing?
+Our network team says they need IP addresses to enable them to allow our Red Hat Satellite 6 installation to talk to the Content Delivery Network. 
+We cannot use host names and must use IP address or ranges.
+
+Yum shows a time out error:
+# yum clean all
+Loaded plugins: product-id, subscription-manager
+timed out
